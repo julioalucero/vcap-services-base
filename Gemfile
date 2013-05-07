@@ -4,7 +4,7 @@ gemspec
 
 group :test do
   gem "rake"
-  gem "sinatra"
+  gem "sinatra", "1.4.2"
   gem "rspec"
   gem "ci_reporter"
   gem "simplecov"
